@@ -1,0 +1,15 @@
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfoInputs.cache
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfo.cs
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.CoreCompileInputs.cache
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.sourcelink.json
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\refint\Tugas_Besar Ayam Icikiwir Company.dll
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.genruntimeconfig.cache
+D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\ref\Tugas_Besar Ayam Icikiwir Company.dll

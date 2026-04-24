@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94EC44AD-CD70-4718-8990-05A8BF3967C5}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tugas_besar ayam icikiwir company\\tugas_besar ayam icikiwir company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EC44AD-CD70-4718-8990-05A8BF3967C5}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|solutionrelative:tugas_besar ayam icikiwir company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tugas_besar ayam icikiwir company\\tugas_besar ayam icikiwir company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|solutionrelative:tugas_besar ayam icikiwir company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tugas_besar ayam icikiwir company\\tugas_besar ayam icikiwir company\\buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|solutionrelative:tugas_besar ayam icikiwir company\\buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tugas_besar ayam icikiwir company\\tugas_besar ayam icikiwir company\\perpustakaanlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|solutionrelative:tugas_besar ayam icikiwir company\\perpustakaanlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tugas_besar ayam icikiwir company\\tugas_besar ayam icikiwir company\\bukurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E3A65F-A2EE-7F2A-285B-F84CAA259255}|Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj|solutionrelative:tugas_besar ayam icikiwir company\\bukurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buku.cs",
+              "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Buku.cs",
+              "RelativeDocumentMoniker": "Tugas_Besar Ayam Icikiwir Company\\Buku.cs",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Buku.cs",
+              "RelativeToolTip": "Tugas_Besar Ayam Icikiwir Company\\Buku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:09:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerpustakaanLogic.cs",
+              "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\PerpustakaanLogic.cs",
+              "RelativeDocumentMoniker": "Tugas_Besar Ayam Icikiwir Company\\PerpustakaanLogic.cs",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\PerpustakaanLogic.cs*",
+              "RelativeToolTip": "Tugas_Besar Ayam Icikiwir Company\\PerpustakaanLogic.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:08:28.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BukuRepository.cs",
+              "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\BukuRepository.cs",
+              "RelativeDocumentMoniker": "Tugas_Besar Ayam Icikiwir Company\\BukuRepository.cs",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\BukuRepository.cs*",
+              "RelativeToolTip": "Tugas_Besar Ayam Icikiwir Company\\BukuRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:45:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Program.cs",
               "RelativeDocumentMoniker": "Tugas_Besar Ayam Icikiwir Company\\Program.cs",
-              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Program.cs",
-              "RelativeToolTip": "Tugas_Besar Ayam Icikiwir Company\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Program.cs*",
+              "RelativeToolTip": "Tugas_Besar Ayam Icikiwir Company\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T18:13:35.481Z",
               "EditorCaption": ""
