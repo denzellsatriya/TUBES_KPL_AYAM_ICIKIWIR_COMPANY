@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas_Besar Ayam Icikiwir Company")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7ab7c7ceb276df1b7fe547d4f3ef1d46e52094")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a6a8783f2fd90404e1b25cde62ab438e3027ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas_Besar Ayam Icikiwir Company")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas_Besar Ayam Icikiwir Company")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
