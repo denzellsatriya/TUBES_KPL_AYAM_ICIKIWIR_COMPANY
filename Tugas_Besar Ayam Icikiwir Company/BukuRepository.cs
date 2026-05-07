@@ -7,6 +7,7 @@ using Tugas_Besar_Ayam_Icikiwir.Models;
 
 namespace Tugas_Besar_Ayam_Icikiwir.Data
 {
+    // parametrization class ('where T : Buku, new()' untuk memastikan T adalah turunan Buku)
     public class BukuRepository<T> where T : Buku, new()
     {
         private List<T> _daftarBuku = new List<T>();
@@ -38,8 +39,22 @@ namespace Tugas_Besar_Ayam_Icikiwir.Data
             }
         }
 
+        // parameterization method 
+        public List<T> Cari(Func<T, bool> kriteria)
+        {
+            return _daftarBuku.Where(kriteria).ToList();
+        }
+
+        // mengambil satu data
+        public T? AmbilSatu(Func<T, bool> kriteria)
+        {
+            return _daftarBuku.FirstOrDefault(kriteria);
+        }
+        
         public List<T> GetAll() => _daftarBuku;
-        public List<T> GetAvailable() => _daftarBuku.Where(b => b.Status == StatusBuku.TERSEDIA).ToList();
-        public T? GetById(int id) => _daftarBuku.FirstOrDefault(b => b.Id == id);
+
+        public List<T> GetAvailable() => Cari(b => b.Status == StatusBuku.TERSEDIA);
+
+        public T? GetById(int id) => AmbilSatu(b => b.Id == id);
     }
 }
