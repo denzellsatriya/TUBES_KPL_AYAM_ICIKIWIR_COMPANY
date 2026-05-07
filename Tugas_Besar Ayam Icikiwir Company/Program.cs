@@ -29,7 +29,8 @@ namespace Tugas_Besar_Ayam_Icikiwir
                         repo.GetAll().ForEach(b => Console.WriteLine($"ID: {b.Id} | {b.Judul} | Status: {b.Status}"));
                         break;
                     case "2":
-                        repo.GetAvailable().ForEach(b => Console.WriteLine($"ID: {b.Id} | {b.Judul}"));
+                        var tersedia = repo.Cari(b => b.Status == StatusBuku.TERSEDIA);
+                        tersedia.ForEach(b => Console.WriteLine($"ID: {b.Id} | {b.Judul}"));
                         break;
                     case "3":
                         JalankanTransaksi(repo, "PINJAM");
@@ -49,7 +50,8 @@ namespace Tugas_Besar_Ayam_Icikiwir
             Console.Write($"Masukkan ID Buku ({aksi}): ");
             if (int.TryParse(Console.ReadLine(), out int id))
             {
-                var buku = repo.GetById(id);
+                var buku = repo.AmbilSatu(b => b.Id == id);
+
                 if (buku != null)
                 {
                     StatusBuku awal = buku.Status;
