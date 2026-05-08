@@ -7,13 +7,13 @@ namespace Tugas_Besar_Ayam_Icikiwir.Models
     public class UserAccount
     {
         //staff
-        public string Username { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
+        public string Username { get; set; } = "";
+        public string Password { get; set; } = "";
 
         //pengunjung
-        public string NomorIdentitas { get; set; } = string.Empty; 
-        public string Nama { get; set; } = string.Empty;
-        public string Email { get; set; } = string.Empty;
+        public string NomorIdentitas { get; set; } = ""; 
+        public string Nama { get; set; } = "";
+        public string Email { get; set; } = "";
         public string Role { get; set; } = "Pengunjung";
 
         public void ValidasiDataPengunjung()

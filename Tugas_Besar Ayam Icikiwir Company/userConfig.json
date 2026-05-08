@@ -1,8 +1,16 @@
-[
-  {
-    "Username": "admin",
-    "Password": "admin",
-    "Role": "Staff",
-    "Nama": "Denzell"
+{
+  "StaffAccounts": [
+    {
+      "Username": "admin",
+      "Password": "admin",
+      "Role": "Staff",
+      "Nama": "Admin Perpus"
+    }
+  ],
+  "Settings": {
+    "DurasiPinjamHari": 7,
+    "DendaPerHari": 2500,
+    "DendaBukuHilang": 50000,
+    "NamaPerpustakaan": "Perpustakaan Ayam Icikiwir"
   }
-]
+}
