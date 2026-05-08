@@ -5,6 +5,7 @@ using System.Text.Json;
 using System.Linq;
 using Tugas_Besar_Ayam_Icikiwir.Models;
 using Tugas_Besar_Ayam_Icikiwir.Data;
+using Tugas_Besar_Ayam_Icikiwir.Logic;
 
 namespace Tugas_Besar_Ayam_Icikiwir
 {
@@ -15,20 +16,14 @@ namespace Tugas_Besar_Ayam_Icikiwir
 
         static void Main(string[] args)
         {
-            LoadConfiguration(); // [RUNTIME CONFIG]
-
+            LoadConfiguration();
             BukuRepository<Buku> repo = new BukuRepository<Buku>();
-            UserAccount userAktif = new UserAccount();
+            UserAccount userAktif;
 
-            Console.WriteLine($"=== {libSettings.NamaPerpustakaan.ToUpper()} ===");
-            Console.WriteLine("Pilih Peran:");
-            Console.WriteLine("1. Staff (Login)");
-            Console.WriteLine("2. Pengunjung (Registrasi)");
+            Console.WriteLine("APLIKASI PERPUSTAKAAN");
+            Console.WriteLine("1. Staff (Login)\n2. Pengunjung (Registrasi)");
             Console.Write("Pilihan: ");
-            string? pilihan = Console.ReadLine();
-
-            if (pilihan == "1") userAktif = LoginStaff();
-            else userAktif = RegistrasiPengunjung();
+            userAktif = (Console.ReadLine() == "1") ? LoginStaff() : RegistrasiPengunjung();
 
             JalankanMenuUtama(userAktif, repo);
         }
@@ -40,14 +35,26 @@ namespace Tugas_Besar_Ayam_Icikiwir
                 string path = "userconfig.json";
                 if (File.Exists(path))
                 {
-                    var jsonDoc = JsonDocument.Parse(File.ReadAllText(path));
-                    libSettings = JsonSerializer.Deserialize<LibrarySettings>(jsonDoc.RootElement.GetProperty("Settings").ToString())!;
-                    staffList = JsonSerializer.Deserialize<List<UserAccount>>(jsonDoc.RootElement.GetProperty("StaffAccounts").ToString())!;
+                    string jsonString = File.ReadAllText(path);
+                    using var jsonDoc = JsonDocument.Parse(jsonString);
+                    var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+
+                    //runtime config
+                    libSettings = JsonSerializer.Deserialize<LibrarySettings>(jsonDoc.RootElement.GetProperty("Settings").ToString(), options)!;
+                    staffList = JsonSerializer.Deserialize<List<UserAccount>>(jsonDoc.RootElement.GetProperty("StaffAccounts").ToString(), options)!;
                 }
             }
-            catch
+            catch (Exception ex)
             {
-                libSettings = new LibrarySettings { DurasiPinjamHari = 7, DendaPerHari = 5000, DendaBukuHilang = 50000, NamaPerpustakaan = "Perpus Default" };
+                Console.WriteLine($"[ERROR!]: Gagal memuat JSON ({ex.Message}), menggunakan akun default.");
+            }
+
+            if (staffList == null || staffList.Count == 0)
+            {
+                staffList = new List<UserAccount>
+                {
+                    new UserAccount { Username = "admin", Password = "admin", Role = "Staff", Nama = "Staff Perpus" }
+                };
             }
         }
 
@@ -55,62 +62,74 @@ namespace Tugas_Besar_Ayam_Icikiwir
         {
             while (true)
             {
-                Console.Write("\nUsername: "); string? u = Console.ReadLine();
-                Console.Write("Password: "); string? p = Console.ReadLine();
-                var staff = staffList.FirstOrDefault(s => s.Username == u && s.Password == p);
+                Console.WriteLine($"\nJumlah akun staff terdaftar: {staffList.Count}");
+                Console.Write("Username: "); string? u = Console.ReadLine()?.Trim();
+                Console.Write("Password: "); string? p = Console.ReadLine()?.Trim();
+
+                var staff = staffList.FirstOrDefault(s =>
+                    s.Username.Equals(u, StringComparison.OrdinalIgnoreCase) && s.Password == p);
+
                 if (staff != null) return staff;
-                Console.WriteLine("Login Gagal!");
+
+                Console.WriteLine("Login Gagal! Pastikan username/password benar.");
+                if (staffList.Count > 0)
+                    Console.WriteLine($"Petunjuk: Coba pakai username '{staffList[0].Username}'");
             }
         }
 
         static UserAccount RegistrasiPengunjung()
         {
             UserAccount p = new UserAccount { Role = "Pengunjung" };
-            Console.WriteLine("\n--- Form Pengunjung ---");
-            Console.Write("Nama: "); p.Nama = Console.ReadLine() ?? "Guest";
-            Console.Write("ID (NIM/NIK): "); p.NomorIdentitas = Console.ReadLine() ?? "-";
-            return p;
+            while (true)
+            {
+                try
+                {
+                    Console.Write("\nNama Lengkap: "); p.Nama = Console.ReadLine() ?? "";
+                    Console.Write("Nomor Identitas: "); p.NomorIdentitas = Console.ReadLine() ?? "";
+                    Console.Write("Email: "); p.Email = Console.ReadLine() ?? "";
+                    p.ValidasiDataPengunjung();
+                    return p;
+                }
+                catch (Exception ex) { Console.WriteLine($"[ERROR]: {ex.Message}"); }
+            }
         }
 
         static void JalankanMenuUtama(UserAccount user, BukuRepository<Buku> repo)
         {
-            bool running = true;
-            while (running)
+            while (true)
             {
                 Console.WriteLine($"\n=== MENU {user.Role.ToUpper()} ({user.Nama}{user.Username}) ===");
-                Console.WriteLine("1. Lihat Semua Buku");
-                Console.WriteLine("2. Cari Buku");
-
+                Console.WriteLine("1. Lihat Semua Buku\n2. Cari Buku");
                 if (user.Role == "Pengunjung")
                 {
-                    Console.WriteLine("3. Pinjam Buku");
-                    Console.WriteLine("4. Kembalikan / Lapor Hilang");
+                    Console.WriteLine("3. Pinjam Buku\n4. Kembali/Lapor Hilang");
                 }
                 else
                 {
-                    Console.WriteLine("3. Tambah Buku");
-                    Console.WriteLine("4. Restock Buku Hilang");
+                    Console.WriteLine("3. Tambah Buku\n4. Restock Buku Hilang");
                 }
                 Console.WriteLine("0. Keluar");
-                Console.Write("Pilih menu: ");
+                Console.Write("Pilih: ");
                 string? input = Console.ReadLine();
 
+                if (input == "0") break;
                 switch (input)
                 {
-                    case "1": repo.GetAll().ForEach(b => Console.WriteLine($"{b.Id}. {b.Judul} [{b.Status}]")); break;
+                    case "1": 
+                        repo.GetAll().ForEach(b => Console.WriteLine($"{b.Id}. {b.Judul} [{b.Status}]")); 
+                        break;
                     case "2":
-                        Console.Write("Cari: "); string key = Console.ReadLine() ?? "";
+                        Console.Write("Keyword: "); string key = Console.ReadLine() ?? "";
                         repo.Cari(b => b.Judul.Contains(key, StringComparison.OrdinalIgnoreCase)).ForEach(b => Console.WriteLine($"{b.Id}. {b.Judul}"));
                         break;
                     case "3":
                         if (user.Role == "Pengunjung") TransaksiPinjam(repo);
-                        else Console.WriteLine("Fungsi Tambah Buku...");
+                        else TambahBukuBaru(repo);
                         break;
                     case "4":
                         if (user.Role == "Pengunjung") TransaksiKembali(repo);
                         else TransaksiRestock(repo);
                         break;
-                    case "0": running = false; break;
                 }
             }
         }
@@ -120,12 +139,13 @@ namespace Tugas_Besar_Ayam_Icikiwir
             Console.Write("ID Buku: ");
             if (int.TryParse(Console.ReadLine(), out int id))
             {
-                var buku = repo.AmbilSatu(b => b.Id == id);
-                if (buku != null && buku.Status == StatusBuku.TERSEDIA)
+                var b = repo.GetById(id);
+                if (b != null && b.Status == StatusBuku.TERSEDIA)
                 {
-                    buku.Status = StatusBuku.DIPINJAM;
-                    buku.TanggalPinjam = DateTime.Now;
-                    Console.WriteLine($"Pinjam Berhasil! Kembali sebelum: {DateTime.Now.AddDays(libSettings.DurasiPinjamHari):dd MMM yyyy}");
+                    b.Status = PerpustakaanLogic.Transisi(b.Status, "PINJAM");
+                    b.TanggalPinjam = DateTime.Now;
+                    repo.SimpanData();
+                    Console.WriteLine("Berhasil Pinjam!");
                 }
                 else Console.WriteLine("Buku tidak tersedia.");
             }
@@ -136,41 +156,47 @@ namespace Tugas_Besar_Ayam_Icikiwir
             Console.Write("ID Buku: ");
             if (int.TryParse(Console.ReadLine(), out int id))
             {
-                var buku = repo.AmbilSatu(b => b.Id == id);
-                if (buku != null && buku.Status == StatusBuku.DIPINJAM)
+                var b = repo.GetById(id);
+                if (b != null && b.Status == StatusBuku.DIPINJAM)
                 {
-                    Console.WriteLine("1. Kembali Normal\n2. Lapor Hilang");
-                    string? opsi = Console.ReadLine();
-                    if (opsi == "2")
+                    Console.WriteLine("1. Kembali\n2. Hilang");
+                    if (Console.ReadLine() == "2")
                     {
-                        buku.Status = StatusBuku.HILANG;
-                        buku.TanggalPinjam = null;
-                        Console.WriteLine($"Lapor Hilang Berhasil. Denda: Rp{libSettings.DendaBukuHilang:N0}");
+                        b.Status = PerpustakaanLogic.Transisi(b.Status, "LAPOR_HILANG");
+                        Console.WriteLine($"Denda: Rp{libSettings.DendaBukuHilang:N0}");
                     }
                     else
                     {
-                        int hariTelat = (int)Math.Ceiling((DateTime.Now - buku.TanggalPinjam!.Value.AddDays(libSettings.DurasiPinjamHari)).TotalDays);
-                        if (hariTelat > 0) Console.WriteLine($"Telat {hariTelat} Hari. Denda: Rp{hariTelat * libSettings.DendaPerHari:N0}");
-                        else Console.WriteLine("Kembali Tepat Waktu.");
-                        buku.Status = StatusBuku.TERSEDIA;
-                        buku.TanggalPinjam = null;
+                        int telat = (int)Math.Ceiling((DateTime.Now - b.TanggalPinjam!.Value.AddDays(libSettings.DurasiPinjamHari)).TotalDays);
+                        if (telat > 0) Console.WriteLine($"Denda Telat: Rp{telat * libSettings.DendaPerHari:N0}");
+                        b.Status = PerpustakaanLogic.Transisi(b.Status, "KEMBALIKAN");
                     }
+                    b.TanggalPinjam = null;
+                    repo.SimpanData();
                 }
             }
         }
 
+        static void TambahBukuBaru(BukuRepository<Buku> repo)
+        {
+            Console.Write("Judul Buku Baru: ");
+            string judul = Console.ReadLine() ?? "Tanpa Judul";
+            repo.TambahBuku(new Buku { Judul = judul, Status = StatusBuku.TERSEDIA });
+            Console.WriteLine("Buku berhasil ditambahkan.");
+        }
+
         static void TransaksiRestock(BukuRepository<Buku> repo)
         {
-            Console.Write("ID Buku Hilang untuk di-Restock: ");
+            Console.Write("ID Buku Hilang: ");
             if (int.TryParse(Console.ReadLine(), out int id))
             {
-                var buku = repo.AmbilSatu(b => b.Id == id && b.Status == StatusBuku.HILANG);
-                if (buku != null)
+                var b = repo.AmbilSatu(x => x.Id == id && x.Status == StatusBuku.HILANG);
+                if (b != null)
                 {
-                    buku.Status = StatusBuku.TERSEDIA;
-                    Console.WriteLine("Buku berhasil tersedia kembali.");
+                    b.Status = PerpustakaanLogic.Transisi(b.Status, "RESTOCK");
+                    repo.SimpanData();
+                    Console.WriteLine("Status buku kembali TERSEDIA.");
                 }
-                else Console.WriteLine("Buku tidak ditemukan dengan status HILANG.");
             }
         }
     }

@@ -10,6 +10,8 @@ namespace Tugas_Besar_Ayam_Icikiwir.Logic
             {
                 (StatusBuku.TERSEDIA, "PINJAM") => StatusBuku.DIPINJAM,
                 (StatusBuku.DIPINJAM, "KEMBALIKAN") => StatusBuku.TERSEDIA,
+                (StatusBuku.DIPINJAM, "LAPOR_HILANG") => StatusBuku.HILANG,
+                (StatusBuku.HILANG, "RESTOCK") => StatusBuku.TERSEDIA,
                 _ => current
             };
         }

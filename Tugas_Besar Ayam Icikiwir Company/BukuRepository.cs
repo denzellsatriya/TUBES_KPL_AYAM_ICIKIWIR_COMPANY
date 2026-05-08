@@ -7,54 +7,46 @@ using Tugas_Besar_Ayam_Icikiwir.Models;
 
 namespace Tugas_Besar_Ayam_Icikiwir.Data
 {
-    // parametrization class ('where T : Buku, new()' untuk memastikan T adalah turunan Buku)
+    //paraterization class -> supaya class bisa bekerja dengan tipe data apapun
     public class BukuRepository<T> where T : Buku, new()
     {
         private List<T> _daftarBuku = new List<T>();
         private string _filePath = "Buku.json";
 
-        public BukuRepository()
-        {
-            LoadData();
-        }
+        public BukuRepository() { LoadData(); }
 
         private void LoadData()
         {
+            if (!File.Exists(_filePath)) return;
             try
             {
-                if (File.Exists(_filePath))
-                {
-                    string jsonString = File.ReadAllText(_filePath);
-                    var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
-                    _daftarBuku = JsonSerializer.Deserialize<List<T>>(jsonString, options) ?? new List<T>();
-                }
-                else
-                {
-                    Console.WriteLine("Peringatan: File Buku.json tidak ditemukan!");
-                }
+                string jsonString = File.ReadAllText(_filePath);
+                _daftarBuku = JsonSerializer.Deserialize<List<T>>(jsonString,
+                    new JsonSerializerOptions { PropertyNameCaseInsensitive = true }) ?? new List<T>();
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Error loading data: {ex.Message}");
-            }
+            catch { _daftarBuku = new List<T>(); }
         }
 
-        // parameterization method 
-        public List<T> Cari(Func<T, bool> kriteria)
+        public void SimpanData()
         {
-            return _daftarBuku.Where(kriteria).ToList();
-        }
-
-        // mengambil satu data
-        public T? AmbilSatu(Func<T, bool> kriteria)
-        {
-            return _daftarBuku.FirstOrDefault(kriteria);
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            File.WriteAllText(_filePath, JsonSerializer.Serialize(_daftarBuku, options));
         }
         
+        //parametrization method
         public List<T> GetAll() => _daftarBuku;
+        public List<T> Cari(Func<T, bool> kriteria) => _daftarBuku.Where(kriteria).ToList();
+        public T? AmbilSatu(Func<T, bool> kriteria) => _daftarBuku.FirstOrDefault(kriteria);
 
-        public List<T> GetAvailable() => Cari(b => b.Status == StatusBuku.TERSEDIA);
-
-        public T? GetById(int id) => AmbilSatu(b => b.Id == id);
+        public void TambahBuku(T baru)
+        {
+            baru.Id = _daftarBuku.Count > 0 ? _daftarBuku.Max(b => b.Id) + 1 : 1;
+            _daftarBuku.Add(baru);
+            SimpanData();
+        }
+        public T? GetById(int id)
+        {
+            return AmbilSatu(b => b.Id == id);
+        }
     }
 }
