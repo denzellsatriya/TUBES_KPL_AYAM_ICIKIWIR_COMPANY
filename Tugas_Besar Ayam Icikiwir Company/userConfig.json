@@ -8,7 +8,6 @@
     }
   ],
 
-  //runtime config
   "Settings": {
     "DurasiPinjamHari": 7,
     "DendaPerHari": 2500,
