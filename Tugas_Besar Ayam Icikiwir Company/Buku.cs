@@ -1,15 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Tugas_Besar_Ayam_Icikiwir.Models
 {
     public enum StatusBuku { TERSEDIA, DIPINJAM, HILANG }
 
-    public class Buku
+    public class Buku : ITanggalDibuat, ILoggable
     {
         public int Id { get; set; }
         public string Judul { get; set; } = "";
         public StatusBuku Status { get; set; }
         public DateTime? TanggalPinjam { get; set; }
+        public DateTime TanggalDibuat { get; set; }
+        public List<LogEntry> Logs { get; set; } = new List<LogEntry>();
     }
 
     public class LibrarySettings

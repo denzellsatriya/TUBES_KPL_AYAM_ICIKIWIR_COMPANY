@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Tugas_Besar_Ayam_Icikiwir.Models
 {
-    public class UserAccount
+    public class UserAccount : ITanggalDibuat, ILoggable
     {
         public string Username { get; set; } = "";
         public string Password { get; set; } = "";
@@ -11,6 +12,9 @@ namespace Tugas_Besar_Ayam_Icikiwir.Models
         public string Nama { get; set; } = "";
         public string Email { get; set; } = "";
         public string Role { get; set; } = "Pengunjung";
+
+        public DateTime TanggalDibuat { get; set; }
+        public List<LogEntry> Logs { get; set; } = new List<LogEntry>();
 
         public void ValidasiDataPengunjung()
         {
