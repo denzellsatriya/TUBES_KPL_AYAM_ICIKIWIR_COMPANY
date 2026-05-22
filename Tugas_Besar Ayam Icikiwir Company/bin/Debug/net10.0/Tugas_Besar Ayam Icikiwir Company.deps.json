@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
+        "dependencies": {
+          "Tugas_Besar_Ayam_Icikiwir_Company": "1.0.0"
+        },
+        "runtime": {
+          "Tugas_Besar Ayam Icikiwir Company.dll": {}
+        }
+      },
+      "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+        "runtime": {
+          "Tugas_Besar_Ayam_Icikiwir_Company.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

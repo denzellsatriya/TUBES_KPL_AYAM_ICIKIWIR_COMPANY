@@ -1,0 +1,19 @@
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.AssemblyReference.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfoInputs.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfo.cs
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.CoreCompileInputs.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.sourcelink.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Be.269BBC32.Up2Date
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\refint\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.genruntimeconfig.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\ref\Tugas_Besar Ayam Icikiwir Company.dll
