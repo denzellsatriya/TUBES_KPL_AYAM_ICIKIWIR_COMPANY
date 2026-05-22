@@ -35,7 +35,7 @@ namespace Tugas_Besar_Ayam_Icikiwir
         {
             try
             {
-                string path = "userconfig.json";
+                string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "userconfig.json");
                 if (File.Exists(path))
                 {
                     string jsonString = File.ReadAllText(path);
@@ -176,9 +176,7 @@ namespace Tugas_Besar_Ayam_Icikiwir
                         break;
                     case "6":
                         if (user.Role != "Pengunjung")
-                        {
                             TampilkanLogSistem();
-                        }
                         break;
                 }
             }
@@ -198,7 +196,6 @@ namespace Tugas_Besar_Ayam_Icikiwir
 
                     logBuku.TambahLog(b, "PINJAM", user.Nama,
                         $"Buku '{b.Judul}' dipinjam oleh {user.Nama}");
-
                     logUser.TambahLog(user, "PINJAM_BUKU", user.Nama,
                         $"Meminjam buku '{b.Judul}' (ID: {b.Id})");
 
@@ -279,7 +276,7 @@ namespace Tugas_Besar_Ayam_Icikiwir
 
         static void TampilkanLogSistem()
         {
-            string path = "LogUser.json";
+            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LogUser.json");
             if (!File.Exists(path))
             {
                 Console.WriteLine("\n--- Log Sistem --- \n  (Belum ada riwayat sistem)");
