@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\herua\Downloads\Tugas_Besar_Ayam_Icikiwir_Company (2)\Solution\Tugas_Besar_Ayam_Icikiwir_Company\Tugas_Besar_Ayam_Icikiwir_Company.csproj" />
+    <ProjectReference Include="..\Tugas_Besar_Ayam_Icikiwir_Company\Tugas_Besar_Ayam_Icikiwir_Company.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {
-      "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "compile": {
-          "bin/placeholder/Tugas_Besar_Ayam_Icikiwir_Company.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tugas_Besar_Ayam_Icikiwir_Company.dll": {}
-        }
-      }
-    }
+    "net10.0": {}
   },
-  "libraries": {
-    "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
-      "type": "project",
-      "path": "../Tugas_Besar_Ayam_Icikiwir_Company/Tugas_Besar_Ayam_Icikiwir_Company.csproj",
-      "msbuildProject": "../Tugas_Besar_Ayam_Icikiwir_Company/Tugas_Besar_Ayam_Icikiwir_Company.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net10.0": [
-      "Tugas_Besar_Ayam_Icikiwir_Company >= 1.0.0"
-    ]
+    "net10.0": []
   },
   "packageFolders": {
     "C:\\Users\\herua\\.nuget\\packages\\": {},
@@ -34,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
-      "projectName": "Tugas_Besar Ayam Icikiwir Company",
-      "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+      "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj",
+      "projectName": "Tugas_Besar_Ayam_Icikiwir_Company",
+      "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj",
       "packagesPath": "C:\\Users\\herua\\.nuget\\packages\\",
-      "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
+      "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,11 +41,7 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {
-            "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj": {
-              "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
