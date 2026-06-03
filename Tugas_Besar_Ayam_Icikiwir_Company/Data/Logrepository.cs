@@ -13,8 +13,6 @@ namespace Tugas_Besar_Ayam_Icikiwir.Data
 
         public LogRepository(string filePath)
         {
-            // Gabungkan dengan BaseDirectory agar path selalu konsisten
-            // dengan folder executable, bukan working directory
             _filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, filePath);
         }
 

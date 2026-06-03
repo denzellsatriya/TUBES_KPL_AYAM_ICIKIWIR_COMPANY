@@ -1,0 +1,14 @@
+[
+  {
+    "Waktu": "2026-06-03T15:10:03.401077+07:00",
+    "Aksi": "DITAMBAHKAN",
+    "OlehSiapa": "Staff Perpus",
+    "Keterangan": "Buku \u0027tutorial coding Java\u0027 ditambahkan"
+  },
+  {
+    "Waktu": "2026-06-03T15:33:08.0578392+07:00",
+    "Aksi": "LAPOR_HILANG",
+    "OlehSiapa": "denzell",
+    "Keterangan": "Buku \u0027tutorial coding Java\u0027 dilaporkan hilang"
+  }
+]

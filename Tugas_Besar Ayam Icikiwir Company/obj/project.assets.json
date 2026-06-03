@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
@@ -27,28 +27,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\herua\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Denzell\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+      "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
       "projectName": "Tugas_Besar Ayam Icikiwir Company",
-      "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
-      "packagesPath": "C:\\Users\\herua\\.nuget\\packages\\",
-      "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
+      "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+      "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
+      "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\herua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -59,10 +56,11 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj": {
-              "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\TubesKPL_AyamIcikiwir\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj"
+            "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj": {
+              "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj"
             }
           }
         }
@@ -77,10 +75,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -98,7 +97,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
