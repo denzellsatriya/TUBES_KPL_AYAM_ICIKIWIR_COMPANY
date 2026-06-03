@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {}
   },
@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Naufal\\.nuget\\packages\\": {},
+    "C:\\Users\\Denzell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+      "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
       "projectName": "Tugas_Besar Ayam Icikiwir Company",
-      "projectPath": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
-      "packagesPath": "C:\\Users\\Naufal\\.nuget\\packages\\",
-      "outputPath": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
+      "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+      "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
+      "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Naufal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -51,10 +52,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -72,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -349,5 +351,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
@@ -13,3 +14,43 @@ D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tuga
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.genruntimeconfig.cache
 D:\TUGAS_SEM_4\KONSTRUKSI PERANGKAT LUNAK\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\ref\Tugas_Besar Ayam Icikiwir Company.dll
+=======
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.AssemblyReference.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfoInputs.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfo.cs
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.CoreCompileInputs.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.sourcelink.json
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Be.269BBC32.Up2Date
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\refint\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.genruntimeconfig.cache
+D:\Universitas\MVisualStudio\C#_Projects\TubesKPL_AyamIcikiwir\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\ref\Tugas_Besar Ayam Icikiwir Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.AssemblyReference.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfoInputs.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.AssemblyInfo.cs
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.csproj.CoreCompileInputs.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.sourcelink.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Be.269BBC32.Up2Date
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\refint\Tugas_Besar Ayam Icikiwir Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.genruntimeconfig.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar Ayam Icikiwir Company\obj\Debug\net10.0\ref\Tugas_Besar Ayam Icikiwir Company.dll
+>>>>>>> Stashed changes
