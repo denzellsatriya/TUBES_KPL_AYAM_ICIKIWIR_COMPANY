@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-using Tugas_Besar_Ayam_Icikiwir.Models;
+using Tugas_Besar_Ayam_Icikiwir_Company.Models;
 
-namespace Tugas_Besar_Ayam_Icikiwir.Data
+namespace Tugas_Besar_Ayam_Icikiwir_Company.Data
 {
     public class UserRepository
     {

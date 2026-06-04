@@ -1,0 +1,96 @@
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.AssemblyReference.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfoInputs.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfo.cs
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.CoreCompileInputs.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cs
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.sourcelink.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\userConfig.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.Development.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.staticwebassets.endpoints.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.exe
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.deps.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.runtimeconfig.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\scopedcss\bundle\API_Perpustakaan.styles.css
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.development.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\swae.build.ex.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perp.63E9013D.Up2Date
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\refint\API_Perpustakaan.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.genruntimeconfig.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\ref\API_Perpustakaan.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\bin\Debug\net10.0\Buku.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Buku.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\bin\Debug\net10.0\Buku.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\userConfig.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.Development.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Buku.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.deps.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.runtimeconfig.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.exe
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.staticwebassets.endpoints.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.exe
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.deps.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.runtimeconfig.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.pdb
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar Ayam Icikiwir Company.pdb
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.AssemblyReference.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfoInputs.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfo.cs
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.CoreCompileInputs.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cs
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.sourcelink.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\scopedcss\bundle\API_Perpustakaan.styles.css
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.development.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\swae.build.ex.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perp.63E9013D.Up2Date
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\refint\API_Perpustakaan.dll
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.pdb
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.genruntimeconfig.cache
+D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\ref\API_Perpustakaan.dll
