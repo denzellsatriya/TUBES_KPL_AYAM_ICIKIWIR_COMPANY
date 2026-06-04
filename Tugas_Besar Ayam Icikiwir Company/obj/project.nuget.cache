@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IXA9lkAYM+I=",
+  "dgSpecHash": "V4/OQ681fPw=",
   "success": true,
-  "projectFilePath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Semester 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayubd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\ayubd\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\ayubd\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.1\\swashbuckle.aspnetcore.10.2.1.nupkg.sha512",
+    "C:\\Users\\ayubd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.1\\swashbuckle.aspnetcore.swagger.10.2.1.nupkg.sha512",
+    "C:\\Users\\ayubd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.1\\swashbuckle.aspnetcore.swaggergen.10.2.1.nupkg.sha512",
+    "C:\\Users\\ayubd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.1\\swashbuckle.aspnetcore.swaggerui.10.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

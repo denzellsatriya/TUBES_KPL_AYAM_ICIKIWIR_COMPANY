@@ -33,3 +33,16 @@ D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Aya
 D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\refint\Tugas_Besar_Ayam_Icikiwir_Company.dll
 D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
 D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\ref\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.deps.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.AssemblyInfoInputs.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.AssemblyInfo.cs
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.csproj.CoreCompileInputs.cache
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.sourcelink.json
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\refint\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\ref\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\Semester 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.csproj.AssemblyReference.cache

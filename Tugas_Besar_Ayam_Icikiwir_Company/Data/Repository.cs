@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 
-namespace Tugas_Besar_Ayam_Icikiwir.Data
+namespace Tugas_Besar_Ayam_Icikiwir_Company.Data
 {
     public class Repository<T> where T : class
     {

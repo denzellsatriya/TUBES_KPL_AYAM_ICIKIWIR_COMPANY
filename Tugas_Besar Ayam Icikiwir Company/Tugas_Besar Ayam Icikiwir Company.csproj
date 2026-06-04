@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Debug\net10.0\Buku.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Tugas_Besar_Ayam_Icikiwir_Company\Tugas_Besar_Ayam_Icikiwir_Company.csproj" />
   </ItemGroup>
 

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using System.Linq;
-using Tugas_Besar_Ayam_Icikiwir.Models;
-using Tugas_Besar_Ayam_Icikiwir.Data;
-using Tugas_Besar_Ayam_Icikiwir.Logic;
+using Tugas_Besar_Ayam_Icikiwir_Company.Models;
+using Tugas_Besar_Ayam_Icikiwir_Company.Data;
+using Tugas_Besar_Ayam_Icikiwir_Company.Logic;
 
 namespace Tugas_Besar_Ayam_Icikiwir_Company
 {

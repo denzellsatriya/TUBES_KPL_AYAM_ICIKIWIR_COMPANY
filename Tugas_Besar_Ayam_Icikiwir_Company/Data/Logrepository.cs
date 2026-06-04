@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 using System.Linq;
-using Tugas_Besar_Ayam_Icikiwir.Models;
+using Tugas_Besar_Ayam_Icikiwir_Company.Models;
 
-namespace Tugas_Besar_Ayam_Icikiwir.Data
+namespace Tugas_Besar_Ayam_Icikiwir_Company.Data
 {
     public class LogRepository<T> where T : ILoggable
     {

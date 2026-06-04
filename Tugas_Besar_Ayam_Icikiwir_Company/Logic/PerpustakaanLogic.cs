@@ -1,6 +1,6 @@
-using Tugas_Besar_Ayam_Icikiwir.Models;
+using Tugas_Besar_Ayam_Icikiwir_Company.Models;
 
-namespace Tugas_Besar_Ayam_Icikiwir.Logic
+namespace Tugas_Besar_Ayam_Icikiwir_Company.Logic
 {
     public static class PerpustakaanLogic
     {

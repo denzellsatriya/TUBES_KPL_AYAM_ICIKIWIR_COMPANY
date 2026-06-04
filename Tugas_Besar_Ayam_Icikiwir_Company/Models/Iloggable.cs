@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Tugas_Besar_Ayam_Icikiwir.Models
+namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
 {
     public interface ILoggable
     {
@@ -14,5 +14,7 @@ namespace Tugas_Besar_Ayam_Icikiwir.Models
         public string Aksi { get; set; } = "";
         public string OlehSiapa { get; set; } = "";
         public string Keterangan { get; set; } = "";
+        public string Message { get; set; } = "";
+        public DateTime Timestamp { get; set; }
     }
 }

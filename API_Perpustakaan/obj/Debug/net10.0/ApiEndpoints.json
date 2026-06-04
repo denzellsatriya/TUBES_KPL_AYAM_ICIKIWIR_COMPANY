@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "API_Perpustakaan.Controllers.BukuController",
+    "Method": "Get",
+    "RelativePath": "api/Buku",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Tugas_Besar_Ayam_Icikiwir_Company.Models.Buku, Tugas_Besar_Ayam_Icikiwir_Company, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Perpustakaan.Controllers.BukuController",
+    "Method": "Post",
+    "RelativePath": "api/Buku",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputBaru",
+        "Type": "Tugas_Besar_Ayam_Icikiwir_Company.Models.BukuCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Perpustakaan.Controllers.BukuController",
+    "Method": "GetById",
+    "RelativePath": "api/Buku/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Tugas_Besar_Ayam_Icikiwir_Company.Models.Buku",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Perpustakaan.Controllers.BukuController",
+    "Method": "Put",
+    "RelativePath": "api/Buku/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "inputUpdate",
+        "Type": "Tugas_Besar_Ayam_Icikiwir_Company.Models.Buku",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Perpustakaan.Controllers.BukuController",
+    "Method": "Delete",
+    "RelativePath": "api/Buku/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
