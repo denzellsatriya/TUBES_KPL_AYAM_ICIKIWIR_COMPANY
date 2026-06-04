@@ -1,0 +1,22 @@
+[
+  {
+    "Username": "admin",
+    "Password": "admin",
+    "NomorIdentitas": "",
+    "Nama": "Staff Perpus",
+    "Email": "",
+    "Role": "Staff",
+    "TanggalDibuat": "2026-06-03T14:20:13.09216+07:00",
+    "Logs": []
+  },
+  {
+    "Username": "denzell",
+    "Password": "denzell123",
+    "NomorIdentitas": "103022400034",
+    "Nama": "denzell",
+    "Email": "denzellsatriya@gmail.com",
+    "Role": "Pengunjung",
+    "TanggalDibuat": "2026-06-03T14:34:30.6161294+07:00",
+    "Logs": []
+  }
+]
