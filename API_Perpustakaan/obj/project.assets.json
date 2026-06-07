@@ -112,30 +112,30 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "Tugas_Besar_Ayam_Icikiwir_Company": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Tugas_Besar Ayam Icikiwir Company.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tugas_Besar Ayam Icikiwir Company.dll": {}
-        }
-      },
-      "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+      "DATA MODEL LOGIC/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Swashbuckle.AspNetCore": "10.2.1"
         },
         "compile": {
-          "bin/placeholder/Tugas_Besar_Ayam_Icikiwir_Company.dll": {}
+          "bin/placeholder/DATA MODEL LOGIC.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Tugas_Besar_Ayam_Icikiwir_Company.dll": {}
+          "bin/placeholder/DATA MODEL LOGIC.dll": {}
+        }
+      },
+      "MAIN PROGRAM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DATA MODEL LOGIC": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MAIN PROGRAM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MAIN PROGRAM.dll": {}
         }
       }
     }
@@ -514,42 +514,42 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
+    "DATA MODEL LOGIC/1.0.0": {
       "type": "project",
-      "path": "../Tugas_Besar Ayam Icikiwir Company/Tugas_Besar Ayam Icikiwir Company.csproj",
-      "msbuildProject": "../Tugas_Besar Ayam Icikiwir Company/Tugas_Besar Ayam Icikiwir Company.csproj"
+      "path": "../Tugas_Besar_Ayam_Icikiwir_Company/DATA MODEL LOGIC.csproj",
+      "msbuildProject": "../Tugas_Besar_Ayam_Icikiwir_Company/DATA MODEL LOGIC.csproj"
     },
-    "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+    "MAIN PROGRAM/1.0.0": {
       "type": "project",
-      "path": "../Tugas_Besar_Ayam_Icikiwir_Company/Tugas_Besar_Ayam_Icikiwir_Company.csproj",
-      "msbuildProject": "../Tugas_Besar_Ayam_Icikiwir_Company/Tugas_Besar_Ayam_Icikiwir_Company.csproj"
+      "path": "../Tugas_Besar Ayam Icikiwir Company/MAIN PROGRAM.csproj",
+      "msbuildProject": "../Tugas_Besar Ayam Icikiwir Company/MAIN PROGRAM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.8",
-      "Tugas_Besar Ayam Icikiwir Company >= 1.0.0",
-      "Tugas_Besar_Ayam_Icikiwir_Company >= 1.0.0"
+      "DATA MODEL LOGIC >= 1.0.0",
+      "MAIN PROGRAM >= 1.0.0",
+      "Microsoft.AspNetCore.OpenApi >= 10.0.8"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayubd\\.nuget\\packages\\": {},
+    "C:\\Users\\Denzell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
+      "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
       "projectName": "API_Perpustakaan",
-      "projectPath": "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
-      "packagesPath": "C:\\Users\\ayubd\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\obj\\",
+      "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
+      "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
+      "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ayubd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -565,11 +565,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj": {
-              "projectPath": "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\Tugas_Besar Ayam Icikiwir Company.csproj"
+            "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj": {
+              "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj"
             },
-            "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj": {
-              "projectPath": "D:\\Semester 4\\KPL\\KPL TUBES\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\Tugas_Besar_Ayam_Icikiwir_Company.csproj"
+            "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
+              "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj"
             }
           }
         }

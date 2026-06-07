@@ -94,3 +94,51 @@ D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.pdb
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.genruntimeconfig.cache
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\ref\API_Perpustakaan.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.Development.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\appsettings.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Buku.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\bin\Debug\net10.0\Buku.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\userConfig.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.staticwebassets.endpoints.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.exe
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.deps.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.runtimeconfig.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\API_Perpustakaan.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.AssemblyReference.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfoInputs.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.AssemblyInfo.cs
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.csproj.CoreCompileInputs.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cs
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.MvcApplicationPartsAssemblyInfo.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.sourcelink.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\scopedcss\bundle\API_Perpustakaan.styles.css
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.development.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\swae.build.ex.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perp.63E9013D.Up2Date
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\refint\API_Perpustakaan.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\API_Perpustakaan.genruntimeconfig.cache
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\obj\Debug\net10.0\ref\API_Perpustakaan.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\MAIN PROGRAM.deps.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\MAIN PROGRAM.runtimeconfig.json
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\MAIN PROGRAM.exe
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\DATA MODEL LOGIC.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\MAIN PROGRAM.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\MAIN PROGRAM.pdb
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\API_Perpustakaan\bin\Debug\net10.0\DATA MODEL LOGIC.pdb

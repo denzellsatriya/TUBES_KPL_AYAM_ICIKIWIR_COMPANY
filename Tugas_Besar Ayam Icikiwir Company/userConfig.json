@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "StaffAccounts": [
     {
@@ -23,7 +22,6 @@
     "DendaBukuHilang": 50000,
     "NamaPerpustakaan": "Perpustakaan Ayam Icikiwir"
   }
-=======
 {
   "StaffAccounts": [
     {
@@ -40,5 +38,4 @@
     "DendaBukuHilang": 50000,
     "NamaPerpustakaan": "Perpustakaan Ayam Icikiwir"
   }
->>>>>>> main
 }

@@ -71,7 +71,7 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company.Data
             {
                 Username = username,
                 Password = password,
-                Nama = username, // Menggunakan inputan username sebagai Nama
+                Nama = username, //  inputan username sebagai Nama
                 Email = email,
                 NomorIdentitas = nik,
                 Role = "Pengunjung",

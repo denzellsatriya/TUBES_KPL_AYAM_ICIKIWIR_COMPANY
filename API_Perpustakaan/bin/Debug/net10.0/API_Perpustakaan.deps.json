@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "API_Perpustakaan/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": "10.0.8",
-          "Tugas_Besar_Ayam_Icikiwir_Company": "1.0.0"
+          "Microsoft.AspNetCore.OpenApi": "10.0.8"
         },
         "runtime": {
           "API_Perpustakaan.dll": {}
@@ -71,23 +70,23 @@
           }
         }
       },
-      "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
+      "DATA MODEL LOGIC/1.0.0": {
         "dependencies": {
-          "Tugas_Besar_Ayam_Icikiwir_Company": "1.0.0"
+          "Swashbuckle.AspNetCore": "10.2.1"
         },
         "runtime": {
-          "Tugas_Besar Ayam Icikiwir Company.dll": {
+          "DATA MODEL LOGIC.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+      "MAIN PROGRAM/1.0.0": {
         "dependencies": {
-          "Swashbuckle.AspNetCore": "10.2.1"
+          "DATA MODEL LOGIC": "1.0.0"
         },
         "runtime": {
-          "Tugas_Besar_Ayam_Icikiwir_Company.dll": {
+          "MAIN PROGRAM.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -143,12 +142,12 @@
       "path": "swashbuckle.aspnetcore.swaggerui/10.2.1",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.10.2.1.nupkg.sha512"
     },
-    "Tugas_Besar Ayam Icikiwir Company/1.0.0": {
+    "DATA MODEL LOGIC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Tugas_Besar_Ayam_Icikiwir_Company/1.0.0": {
+    "MAIN PROGRAM/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

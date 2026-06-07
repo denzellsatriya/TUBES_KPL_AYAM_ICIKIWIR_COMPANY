@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Tugas_Besar_Ayam_Icikiwir_Company.Models.Buku, Tugas_Besar_Ayam_Icikiwir_Company, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[Tugas_Besar_Ayam_Icikiwir_Company.Models.Buku, DATA MODEL LOGIC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

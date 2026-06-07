@@ -1,4 +1,3 @@
-// Pastikan using ini sesuai dengan nama folder Models kamu
 using API_Perpustakaan.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -16,7 +15,7 @@ namespace API_Perpustakaan.Controllers
         private readonly string jsonFilePath = "buku.json";
         private static readonly JsonSerializerOptions jsonOptions = new JsonSerializerOptions { WriteIndented = true };
 
-        // 1. GET: Ambil Semua Daftar Buku
+        // 1. GET: Ambil Semua Buku
         [HttpGet]
         public ActionResult<List<Buku>> Get()
         {
@@ -31,7 +30,7 @@ namespace API_Perpustakaan.Controllers
             return Ok(daftarBuku);
         }
 
-        // 2. GET by ID: Ambil Spesifik 1 Buku Berdasarkan ID
+        // 2. GET by ID: Ambil 1 Buku Berdasarkan ID
         [HttpGet("{id}")]
         public ActionResult<Buku> GetById(int id)
         {
@@ -43,7 +42,6 @@ namespace API_Perpustakaan.Controllers
             var jsonText = System.IO.File.ReadAllText(jsonFilePath);
             var daftarBuku = JsonSerializer.Deserialize<List<Buku>>(jsonText) ?? new List<Buku>();
 
-            // Mencari buku yang ID-nya cocok
             var buku = daftarBuku.FirstOrDefault(b => b.Id == id);
 
             if (buku == null)
@@ -54,7 +52,7 @@ namespace API_Perpustakaan.Controllers
             return Ok(buku);
         }
 
-        // 3. POST: Tambah Buku Baru (Pakai DTO agar input ringkas)
+        // 3. POST: Tambah Buku Baru 
         [HttpPost]
         public ActionResult Post([FromBody] BukuCreateDTO inputBaru)
         {
@@ -90,7 +88,7 @@ namespace API_Perpustakaan.Controllers
             return Ok(bukuBaru);
         }
 
-        // 4. PUT: Update/Edit Buku Berdasarkan ID
+        // 4. PUT: Edit Buku Berdasarkan ID
         [HttpPut("{id}")]
         public ActionResult Put(int id, [FromBody] Buku inputUpdate)
         {
@@ -108,11 +106,10 @@ namespace API_Perpustakaan.Controllers
                 return NotFound(new { message = $"Buku dengan ID {id} tidak ditemukan." });
             }
 
-            // Timpa data lama dengan data baru dari Swagger
+            // Timpa data lama dengan data baru 
             bukuLama.Judul = inputUpdate.Judul;
             bukuLama.Status = inputUpdate.Status;
             bukuLama.TanggalPinjam = inputUpdate.TanggalPinjam;
-            // TanggalDibuat sengaja tidak diubah agar riwayat aslinya tetap aman
 
             string newJsonText = JsonSerializer.Serialize(daftarBuku, jsonOptions);
             System.IO.File.WriteAllText(jsonFilePath, newJsonText);
@@ -138,10 +135,8 @@ namespace API_Perpustakaan.Controllers
                 return NotFound(new { message = $"Buku dengan ID {id} tidak ditemukan." });
             }
 
-            // Hapus dari list
             daftarBuku.Remove(buku);
 
-            // Simpan kembali ke JSON
             string newJsonText = JsonSerializer.Serialize(daftarBuku, jsonOptions);
             System.IO.File.WriteAllText(jsonFilePath, newJsonText);
 

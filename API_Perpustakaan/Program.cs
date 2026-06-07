@@ -1,17 +1,15 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Tambahkan layanan ke container
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(); // Mengaktifkan generator Swagger
+builder.Services.AddSwaggerGen(); 
 
 var app = builder.Build();
 
-// Konfigurasi HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger(); // Mengaktifkan endpoint swagger.json
-    app.UseSwaggerUI(); // Mengaktifkan tampilan UI Swagger
+    app.UseSwagger(); 
+    app.UseSwaggerUI(); 
 }
 
 app.UseHttpsRedirection();

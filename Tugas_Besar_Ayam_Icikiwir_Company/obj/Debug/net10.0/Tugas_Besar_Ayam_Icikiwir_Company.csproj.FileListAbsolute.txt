@@ -59,3 +59,4 @@ D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Ici
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.dll
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\bin\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.pdb
 D:\Semester 4\KPL\KPL TUBES\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\ref\Tugas_Besar_Ayam_Icikiwir_Company.dll
+D:\DENZELL\TELKOM\SEMESTER 4\KPL\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\Tugas_Besar_Ayam_Icikiwir_Company\obj\Debug\net10.0\Tugas_Besar_Ayam_Icikiwir_Company.csproj.AssemblyReference.cache

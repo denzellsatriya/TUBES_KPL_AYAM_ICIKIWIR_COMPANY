@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tugas_Besar Ayam Icikiwir Company\Tugas_Besar Ayam Icikiwir Company.csproj" />
-    <ProjectReference Include="..\Tugas_Besar_Ayam_Icikiwir_Company\Tugas_Besar_Ayam_Icikiwir_Company.csproj" />
+    <ProjectReference Include="..\Tugas_Besar Ayam Icikiwir Company\MAIN PROGRAM.csproj" />
+    <ProjectReference Include="..\Tugas_Besar_Ayam_Icikiwir_Company\DATA MODEL LOGIC.csproj" />
   </ItemGroup>
 
 </Project>
