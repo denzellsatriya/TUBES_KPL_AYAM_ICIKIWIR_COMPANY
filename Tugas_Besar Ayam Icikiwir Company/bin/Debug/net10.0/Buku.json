@@ -10,13 +10,17 @@
         "Waktu": "2026-06-03T15:10:03.401077+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027tutorial coding Java\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027tutorial coding Java\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       },
       {
         "Waktu": "2026-06-03T15:33:08.0578392+07:00",
         "Aksi": "LAPOR_HILANG",
         "OlehSiapa": "denzell",
-        "Keterangan": "Buku \u0027tutorial coding Java\u0027 dilaporkan hilang"
+        "Keterangan": "Buku \u0027tutorial coding Java\u0027 dilaporkan hilang",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -31,7 +35,9 @@
         "Waktu": "2026-06-03T15:10:21.796449+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027tips oacaran tanpa selingkuh\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027tips oacaran tanpa selingkuh\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -46,7 +52,9 @@
         "Waktu": "2026-06-03T15:10:47.1682171+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027kiat hidup sukses\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027kiat hidup sukses\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -61,7 +69,9 @@
         "Waktu": "2026-06-03T15:10:52.9551228+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027cara biar ga iri\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027cara biar ga iri\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -76,7 +86,9 @@
         "Waktu": "2026-06-03T15:11:07.9041058+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027kisah cintaku\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027kisah cintaku\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -91,7 +103,9 @@
         "Waktu": "2026-06-03T15:11:25.1542508+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027biografi Albert Einstein\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027biografi Albert Einstein\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -106,7 +120,9 @@
         "Waktu": "2026-06-03T15:12:04.209056+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027Karen masa lalu atau masa depan?\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027Karen masa lalu atau masa depan?\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -121,7 +137,9 @@
         "Waktu": "2026-06-03T15:12:36.9551009+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027Tama mengguncang dunia\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027Tama mengguncang dunia\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
@@ -136,7 +154,9 @@
         "Waktu": "2026-06-03T15:12:55.9206542+07:00",
         "Aksi": "DITAMBAHKAN",
         "OlehSiapa": "Staff Perpus",
-        "Keterangan": "Buku \u0027kenangan yang terindah\u0027 ditambahkan"
+        "Keterangan": "Buku \u0027kenangan yang terindah\u0027 ditambahkan",
+        "Message": "",
+        "Timestamp": "0001-01-01T00:00:00"
       }
     ]
   },
