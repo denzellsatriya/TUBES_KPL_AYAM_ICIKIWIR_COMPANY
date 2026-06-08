@@ -147,6 +147,21 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company
                 var cekUsername = userRepo.AmbilSatu(x => x.Username.Equals(username, StringComparison.OrdinalIgnoreCase));
                 var cekNik = userRepo.AmbilSatu(x => x.NomorIdentitas == nik);
 
+                if (username.Equals(""))
+                {
+                    Console.WriteLine("\n[-] Gagal: Username tidak boleh kosong!");
+                    return;
+                }
+                if (!email.Contains("@"))
+                {
+                    Console.WriteLine("\n[-] Gagal: Format email tidak valid!");
+                    return;
+                }
+                if (nik.Length < 5 || !nik.All(char.IsDigit))
+                {
+                    Console.WriteLine("\n[-] Gagal: NIK harus berupa angka dan minimal 5 digit!");
+                    return;
+                }
                 if (cekUsername != null)
                 {
                     Console.WriteLine("\n[-] Gagal: Username sudah digunakan!");

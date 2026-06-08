@@ -12,16 +12,5 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
         public DateTime TanggalDibuat { get; set; }
         public List<LogEntry> Logs { get; set; } = new List<LogEntry>();
 
-        public void ValidasiDataPengunjung()
-        {
-            if (string.IsNullOrWhiteSpace(Nama))
-                throw new ArgumentException("Nama harus diisi!");
-
-            if (NomorIdentitas.Length < 5 || !NomorIdentitas.All(char.IsDigit))
-                throw new ArgumentException("Nomor Identitas harus berupa angka minimal 5 digit!");
-
-            if (!Email.Contains("@"))
-                throw new ArgumentException("Format email tidak valid!");
-        }
     }
 }

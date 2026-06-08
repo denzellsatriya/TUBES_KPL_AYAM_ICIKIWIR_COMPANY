@@ -1,9 +1,17 @@
 [
   {
-    "Waktu": "2026-06-08T20:48:55.8824365+07:00",
+    "Waktu": "2026-06-08T21:29:35.1532608+07:00",
+    "Aksi": "REGISTRASI",
+    "OlehSiapa": "c",
+    "Keterangan": "Pengunjung baru terdaftar | Email: c",
+    "Message": "",
+    "Timestamp": "0001-01-01T00:00:00"
+  },
+  {
+    "Waktu": "2026-06-08T21:30:11.590527+07:00",
     "Aksi": "LOGIN",
-    "OlehSiapa": "Staff Perpus",
-    "Keterangan": "Login sebagai Staff",
+    "OlehSiapa": "c",
+    "Keterangan": "Login sebagai Pengunjung",
     "Message": "",
     "Timestamp": "0001-01-01T00:00:00"
   }

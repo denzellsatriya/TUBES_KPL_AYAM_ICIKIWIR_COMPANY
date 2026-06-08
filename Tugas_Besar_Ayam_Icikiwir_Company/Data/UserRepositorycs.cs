@@ -52,6 +52,21 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company.Data
             var users = GetAllUsers();
             newUser = null;
 
+            if (string.IsNullOrWhiteSpace(username))
+            {
+                message = "Gagal: Username tidak boleh kosong!";
+                return false;
+            }
+            if (nik.Length < 5 || !nik.All(char.IsDigit))
+            {
+                message = "Gagal: NIK harus berupa angka dan minimal 5 digit!";
+                return false;
+            }
+            if (!email.Contains("@"))
+            {
+                message = "Gagal: Format email tidak valid!";
+                return false;
+            }
             if (users.Any(u => u.Username.Equals(username, StringComparison.OrdinalIgnoreCase)))
             {
                 message = "Gagal: Username sudah digunakan!";
