@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
+using System.Linq;
 using Tugas_Besar_Ayam_Icikiwir_Company.Models;
 
 namespace API_Perpustakaan.Controllers
@@ -50,7 +51,7 @@ namespace API_Perpustakaan.Controllers
 
         // 3. POST: Tambah Buku Baru 
         [HttpPost]
-        public ActionResult Post([FromBody] BukuCreateDTO inputBaru)
+        public ActionResult Post([FromBody] Buku inputBaru)
         {
             var daftarBuku = new List<Buku>();
 
@@ -70,10 +71,11 @@ namespace API_Perpustakaan.Controllers
             {
                 Id = newId,
                 Judul = inputBaru.Judul,
-                TanggalDibuat = inputBaru.TanggalDibuat,
+                // If client doesn't provide creation date, set to now
+                TanggalDibuat = DateTime.Now,
                 Status = StatusBuku.TERSEDIA,
                 TanggalPinjam = null,
-                Logs = []
+                Logs = new List<LogEntry>()
             };
 
             daftarBuku.Add(bukuBaru);
