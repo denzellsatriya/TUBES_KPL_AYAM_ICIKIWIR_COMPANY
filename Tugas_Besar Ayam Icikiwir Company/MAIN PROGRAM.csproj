@@ -23,11 +23,5 @@
     <ProjectReference Include="..\Tugas_Besar_Ayam_Icikiwir_Company\DATA MODEL LOGIC.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="userConfig.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
+﻿namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
 {
     public class BukuCreateDTO
     {

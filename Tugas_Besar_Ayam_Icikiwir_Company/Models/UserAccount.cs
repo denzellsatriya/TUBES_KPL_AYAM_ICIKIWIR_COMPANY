@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
 {
     public class UserAccount : ITanggalDibuat, ILoggable

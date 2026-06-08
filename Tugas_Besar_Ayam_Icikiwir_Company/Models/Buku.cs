@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 namespace Tugas_Besar_Ayam_Icikiwir_Company.Models
 {
     public enum StatusBuku { TERSEDIA, DIPINJAM, HILANG }

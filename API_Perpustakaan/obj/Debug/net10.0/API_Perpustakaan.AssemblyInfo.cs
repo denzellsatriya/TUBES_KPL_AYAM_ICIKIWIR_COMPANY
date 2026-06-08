@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Perpustakaan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af08870feffe32c91731ac50bd1a8e7a71160dc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+690bf138936de7c49d75957b4d2806297619a70c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Perpustakaan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Perpustakaan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

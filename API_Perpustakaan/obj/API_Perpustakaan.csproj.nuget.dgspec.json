@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj": {}
+    "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\API_Perpustakaan\\API_Perpustakaan.csproj": {}
   },
   "projects": {
-    "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj": {
+    "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\API_Perpustakaan\\API_Perpustakaan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
+        "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\API_Perpustakaan\\API_Perpustakaan.csproj",
         "projectName": "API_Perpustakaan",
-        "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\API_Perpustakaan.csproj",
-        "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
-        "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\API_Perpustakaan\\obj\\",
+        "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\API_Perpustakaan\\API_Perpustakaan.csproj",
+        "packagesPath": "C:\\Users\\herua\\.nuget\\packages\\",
+        "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\API_Perpustakaan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\herua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -30,14 +32,13 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj": {
-                "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj"
+              "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj": {
+                "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj"
               },
-              "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
-                "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj"
+              "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
+                "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj"
               }
             }
           }
@@ -52,11 +53,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -501,22 +501,24 @@
         }
       }
     },
-    "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj": {
+    "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj",
+        "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj",
         "projectName": "MAIN PROGRAM",
-        "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj",
-        "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
-        "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
+        "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\MAIN PROGRAM.csproj",
+        "packagesPath": "C:\\Users\\herua\\.nuget\\packages\\",
+        "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar Ayam Icikiwir Company\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\herua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -527,11 +529,10 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
-                "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj"
+              "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
+                "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj"
               }
             }
           }
@@ -546,11 +547,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -568,7 +568,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -846,22 +846,24 @@
         }
       }
     },
-    "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
+    "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj",
+        "projectUniqueName": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj",
         "projectName": "DATA MODEL LOGIC",
-        "projectPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj",
-        "packagesPath": "C:\\Users\\Denzell\\.nuget\\packages\\",
-        "outputPath": "D:\\DENZELL\\TELKOM\\SEMESTER 4\\KPL\\TUBES_KPL_AYAM_ICIKIWIR_COMPANY\\Tugas_Besar_Ayam_Icikiwir_Company\\obj\\",
+        "projectPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\DATA MODEL LOGIC.csproj",
+        "packagesPath": "C:\\Users\\herua\\.nuget\\packages\\",
+        "outputPath": "D:\\Universitas\\MVisualStudio\\C#_Projects\\Tubes_KPL_Fin\\Tugas_Besar_Ayam_Icikiwir_Company\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Denzell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\herua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -872,7 +874,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -887,11 +888,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
@@ -915,7 +915,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

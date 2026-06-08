@@ -18,5 +18,25 @@
     "Role": "Pengunjung",
     "TanggalDibuat": "2026-06-03T14:34:30.6161294+07:00",
     "Logs": []
+  },
+  {
+    "Username": "s",
+    "Password": "s",
+    "NomorIdentitas": "00000",
+    "Nama": "s",
+    "Email": "@",
+    "Role": "Pengunjung",
+    "TanggalDibuat": "2026-06-08T20:11:09.3366664+07:00",
+    "Logs": []
+  },
+  {
+    "Username": "f",
+    "Password": "f",
+    "NomorIdentitas": "11111",
+    "Nama": "f",
+    "Email": "@",
+    "Role": "Pengunjung",
+    "TanggalDibuat": "2026-06-08T20:26:13.9107016+07:00",
+    "Logs": []
   }
 ]

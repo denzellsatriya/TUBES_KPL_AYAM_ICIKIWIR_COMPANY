@@ -1,8 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Text.Json;
-using System.Linq;
 using Tugas_Besar_Ayam_Icikiwir_Company.Models;
 using Tugas_Besar_Ayam_Icikiwir_Company.Data;
 using Tugas_Besar_Ayam_Icikiwir_Company.Logic;
@@ -59,7 +55,8 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company
                 Console.WriteLine("[ERROR]: Gagal membaca riwayat buku dari LogBuku.json.");
             }
         }
-        static void Main(string[] args)
+
+        static void HomeMenu()
         {
             LoadConfiguration();
             UserAccount userAktif = null;
@@ -83,11 +80,15 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company
                 }
                 else if (pilihan == "0")
                 {
-                    return;
+                    Environment.Exit(0);
                 }
             }
 
             JalankanMenuUtama(userAktif, bukuRepo);
+        }
+        static void Main(string[] args)
+        {
+            HomeMenu();
         }
 
         static void LoadConfiguration()
@@ -197,7 +198,7 @@ namespace Tugas_Besar_Ayam_Icikiwir_Company
                 Console.Write("Pilih: ");
                 string? input = Console.ReadLine();
 
-                if (input == "0") break;
+                if (input == "0") HomeMenu();
 
                 switch (input)
                 {
